@@ -29,6 +29,7 @@ Agents for Amazon Bedrock plan and execute multistep tasks using company systems
 
 ### Security, privacy, and safety
 
-To Do
+#### To Do
 
-Watch Swami's Keynote 
+- Watch Swami's Keynote 
+- [Building Generative AI Applications Using Amazon Bedrock](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17904/building-generative-ai-applications-using-amazon-bedrock)
